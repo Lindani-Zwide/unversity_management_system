@@ -1,0 +1,9 @@
+C:/msys64/mingw64/school_management_system/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/CMakeFiles/school_management_system.dir
+C:/msys64/mingw64/school_management_system/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/CMakeFiles/edit_cache.dir
+C:/msys64/mingw64/school_management_system/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/CMakeFiles/rebuild_cache.dir
+C:/msys64/mingw64/school_management_system/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/CMakeFiles/list_install_components.dir
+C:/msys64/mingw64/school_management_system/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/CMakeFiles/install.dir
+C:/msys64/mingw64/school_management_system/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/CMakeFiles/install/local.dir
+C:/msys64/mingw64/school_management_system/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/CMakeFiles/install/strip.dir
+C:/msys64/mingw64/school_management_system/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/CMakeFiles/school_management_system_autogen_timestamp_deps.dir
+C:/msys64/mingw64/school_management_system/build/Desktop_Qt_6_9_0_MinGW_64_bit-Release/CMakeFiles/school_management_system_autogen.dir

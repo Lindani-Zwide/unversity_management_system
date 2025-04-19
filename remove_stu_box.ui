@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>remove_stu_box</class>
+ <widget class="QDialog" name="remove_stu_box">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>649</width>
+    <height>369</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>649</width>
+    <height>369</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>649</width>
+    <height>369</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>Remove student</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">QWidget{
+	background:#1F2937;
+	color:white;
+	font-weight:700;
+}</string>
+  </property>
+  <widget class="QLineEdit" name="stu_num_input">
+   <property name="geometry">
+    <rect>
+     <x>230</x>
+     <y>130</y>
+     <width>381</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QLineEdit{
+		font-size:20px;
+		background:#bbb;
+		color:#1F2937;
+        border-radius:12px;
+		font-family:Arial, sans-serif;
+}</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>90</x>
+     <y>30</y>
+     <width>461</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QLabel{
+        font-size:35px;
+        font-family:Arial, sans-serif;
+  color:#ccc;
+}</string>
+   </property>
+   <property name="text">
+    <string>update student information</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>60</x>
+     <y>140</y>
+     <width>171</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QLabel{
+   	  font-size:22px;
+     font-family:Arial, sans-serif;
+}</string>
+   </property>
+   <property name="text">
+    <string>Student number</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="remove_stu_btn">
+   <property name="geometry">
+    <rect>
+     <x>440</x>
+     <y>230</y>
+     <width>171</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton{
+		font-family:Arial, sans-serif;
+		font-size:16px;
+background:#0C4A6E;
+border-radius:13px;
+        
+}
+</string>
+   </property>
+   <property name="text">
+    <string>REMOVE STUDENT</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

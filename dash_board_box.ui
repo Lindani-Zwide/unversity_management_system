@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>dash_board_box</class>
+ <widget class="QDialog" name="dash_board_box">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>992</width>
+    <height>619</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>992</width>
+    <height>619</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>992</width>
+    <height>619</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>UMS</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">QWidget{
+	background:#1F2937;
+	color:white;
+	font-weight:700;
+}</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>120</x>
+     <y>60</y>
+     <width>761</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QLabel{
+        font-size:42px;
+        font-family:Arial, sans-serif;
+  color:#ccc;
+}</string>
+   </property>
+   <property name="text">
+    <string>UNIVERSITY MANAGEMENT SYSTEM</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_2">
+   <property name="geometry">
+    <rect>
+     <x>350</x>
+     <y>160</y>
+     <width>301</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton{
+		font-family:Arial, sans-serif;
+		font-size:18px;
+        font-weight:800;
+        border-radius:12px;
+        background:#0C4A6E;
+}</string>
+   </property>
+   <property name="text">
+    <string>ADD STUDENT</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_3">
+   <property name="geometry">
+    <rect>
+     <x>350</x>
+     <y>260</y>
+     <width>301</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton{
+		font-family:Arial, sans-serif;
+		font-size:18px;
+        font-weight:800;
+        border-radius:12px;
+        background:#0C4A6E;
+}</string>
+   </property>
+   <property name="text">
+    <string>SEARCH STUDENT</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_4">
+   <property name="geometry">
+    <rect>
+     <x>350</x>
+     <y>360</y>
+     <width>301</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton{
+		font-family:Arial, sans-serif;
+		font-size:18px;
+        font-weight:800;
+        border-radius:12px;
+        background:#0C4A6E;
+}</string>
+   </property>
+   <property name="text">
+    <string>UPDATE STUDENT</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="display_studs_btn">
+   <property name="geometry">
+    <rect>
+     <x>350</x>
+     <y>460</y>
+     <width>301</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton{
+		font-family:Arial, sans-serif;
+		font-size:18px;
+        font-weight:800;
+        border-radius:12px;
+        background:#0C4A6E;
+}</string>
+   </property>
+   <property name="text">
+    <string>DISPLAY ALL STUDENTS</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
